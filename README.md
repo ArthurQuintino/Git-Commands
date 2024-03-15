@@ -27,7 +27,7 @@
 <img src="/img/passo12.png"></img>
 <h3>arquivos ja no site.</h3>
 <img src="/img/passo13.png"></img>
-<h3>Qualquer alteração remota no site do github devera ser atualizada no seu repositorio local utilizando o comando git pull</h3>
+<h3>qualquer alteração remota no site do github devera ser atualizada no seu repositorio local utilizando o comando git pull</h3>
 <img src="/img/passo14.png"></img>
 
 
